@@ -24,7 +24,7 @@
 
 - 尚无进行中的高优先级任务，见 `NEXT_TASKS.md`。
 - `claude-desktop` 功能完整，无已知阻断性缺陷。
-- 工作根目录未初始化 git。
+- 工作根目录已初始化 git（分支 `main`，首提交 `fbeceb9`），仅本地，暂无 remote。
 
 ## 常用命令
 
